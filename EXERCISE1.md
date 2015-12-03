@@ -5,8 +5,8 @@ and year of a Landsat 8 scene based on its SceneID.
 
 Example:
 
-* Input: LC81160462015249LGN00
-* Output: {'path': '116', 'year': '2015', 'day': '249', 'row': '046'}
+* Input: `LC81160462015249LGN00`
+* Output: `{'path': '116', 'year': '2015', 'day': '249', 'row': '046'}`
 
 Run `exer1.py` to confirm that your module is correct. More details
 inside `exer1.py`

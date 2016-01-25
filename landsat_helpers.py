@@ -6,10 +6,3 @@ def get_scene_details(filename):
         'day': filename[13:16] 
     }
     return scene_details
-
-def get_scene_details_batch(scenes):
-    scene_details = []
-    for scene in scenes:
-        scene_details.append(get_scene_details(scene))
-
-    return scene_details

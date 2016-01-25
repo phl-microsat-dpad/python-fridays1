@@ -44,6 +44,8 @@ print "Result of multi-line statement: %s" % x
 
 mutilinestring = """
 This is a multiline string
+asdfasdfasdo
+asdfasdfasdf
 """
 
 print mutilinestring

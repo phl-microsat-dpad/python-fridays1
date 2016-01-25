@@ -2,7 +2,7 @@
 
 Create a new function definition in landsat_helpers to make the `exer2.py` script work. Do **NOT** edit `exer2.py`.
 
-Expected output is a list of scene_details:
+Expected output by running `python exer2.py` is a list of scene_details:
 
 ```
 [
@@ -23,5 +23,5 @@ Expected output is a list of scene_details:
 ```
 
 
-## Tip 1: Try to reuse the function you made in exer1
-## Tip 2: Items can be added into an list using the `.append()` function
+* Tip 1: Try to reuse the function you made in exer1
+* Tip 2: Items can be added into a list using the `.append()` function
